@@ -1,3 +1,5 @@
+Quiz App
+
 The app allows users to take quizzes, view their scores, and more. This README provides an overview of the project, setup instructions, and other relevant details.
 
 ## Table of Contents
